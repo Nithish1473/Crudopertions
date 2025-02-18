@@ -1,0 +1,25 @@
+
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Nithish",
+            "email":"nithish@gmail.com",
+            "phone":"147551554"
+        },
+        {
+            "id":2,
+            "name":"madhu",
+            "email":"madhu@gmail.com",
+            "phone":"4454414se"
+        },
+        {
+            "id":3,
+            "name":"ram",
+            "email":"ram@gmail.com",
+            "phone":"44785855555"
+        }
+        
+    
+    ]
+}
